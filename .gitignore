@@ -1,0 +1,29 @@
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+.python-version
+.env
+.venv/
+env/
+venv/
+*.env
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional: uv cache (usually outside repo, but just in case)
+.uv/
